@@ -1,5 +1,4 @@
-# Project Title
-BERT (Bidirectional Encoder Representations from Transformers) Question-Answer System
+# BERT (Bidirectional Encoder Representations from Transformers) Question-Answer System
 
 ## Overview
 Code has been implemented as described in the paper "A BERT Baseline for the Natural Questions" from Google Research. The paper can be found at this link: [A BERT Baseline for the Natural Questions](https://arxiv.org/pdf/1901.08634.pdf).
